@@ -38,7 +38,7 @@ Success of React come to 4 things
 
     เรามี js เป็น blueprint ที่คอยบอก react ว่าหน้าตา app เราจะเป็นยังไง เราไม่ต้องจัดการ dom เลย
 
-    ![./picture/react-state.png](x)
+    ![](./picture/react-state.png)
 
     เราไม่ต้องไปกำหนด if นี่เปลี่ยนให้ไปเปลี่ยนอันนู้นอันนีอันนั้น
 
